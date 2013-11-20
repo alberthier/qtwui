@@ -1,0 +1,31 @@
+table.QwuiHBoxLayout,
+tr.QwuiHBoxLayout,
+td.QwuiHBoxLayout,
+table.QwuiVBoxLayout,
+tr.QwuiVBoxLayout,
+td.QwuiVBoxLayout,
+table.QwuiGridLayout,
+tr.QwuiGridLayout,
+td.QwuiGridLayout {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin:0;
+}
+td.QwuiHBoxLayout {
+    background: #FA0;
+    border: 1px solid #000;
+}
+td.QwuiVBoxLayout {
+    background: #FA0;
+    border: 1px solid #000;
+}
+td.QwuiGridLayout {
+    background: #FA0;
+    border: 1px solid #000;
+}
+div {
+    /* This is applied to all divs as it is painful to redefine it for each webget. */
+    width: 100%;
+    height: 100%;
+}

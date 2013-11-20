@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="531.49603"
+   height="354.33069"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="schema-qtwui.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0"
+   inkscape:export-filename="/home/thier/Informatique/qtwui/schema-qtwui.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="155.08246"
+     inkscape:cy="191.98686"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1400"
+     inkscape:window-height="812"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     units="mm"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2897">
+      <text
+         id="text2383"
+         y="133.91333"
+         x="357.04123"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="133.91333"
+           x="357.04123"
+           id="tspan2385"
+           sodipodi:role="line">Resource provider server</tspan></text>
+      <rect
+         rx="7.8571424"
+         ry="7.8571424"
+         y="115.34191"
+         x="345.85638"
+         height="30.714285"
+         width="174.28572"
+         id="rect2387"
+         style="fill:none;stroke:#0000bf;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g2902">
+      <text
+         id="text3171"
+         y="67.841866"
+         x="173.67346"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="67.841866"
+           x="173.67346"
+           id="tspan3173"
+           sodipodi:role="line">Resource provider</tspan></text>
+      <rect
+         rx="6.0695682"
+         ry="7.9462543"
+         y="49.096275"
+         x="161.39647"
+         height="31.062632"
+         width="134.63406"
+         id="rect3175"
+         style="fill:none;stroke:#0000bf;stroke-width:2.65165329;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g2923">
+      <text
+         id="text3179"
+         y="27.841864"
+         x="26.262049"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           id="tspan3185"
+           y="27.841864"
+           x="26.262049"
+           sodipodi:role="line">Resource</tspan></text>
+      <rect
+         rx="3.5528555"
+         ry="8.1005878"
+         y="8.7946224"
+         x="14.666243"
+         height="31.665937"
+         width="78.8088"
+         id="rect3183"
+         style="fill:none;stroke:#0000bf;stroke-width:2.04834771;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g2910">
+      <text
+         id="text3189"
+         y="133.91333"
+         x="175.10204"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="133.91333"
+           x="175.10204"
+           id="tspan3191"
+           sodipodi:role="line">Resource provider</tspan></text>
+      <rect
+         rx="6.0695682"
+         ry="7.9462543"
+         y="115.16774"
+         x="162.82504"
+         height="31.062632"
+         width="134.63406"
+         id="rect3193"
+         style="fill:none;stroke:#0000bf;stroke-width:2.65165329;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g2931">
+      <text
+         id="text3237"
+         y="68.413292"
+         x="25.904919"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           id="tspan3239"
+           y="68.413292"
+           x="25.904919"
+           sodipodi:role="line">Resource</tspan></text>
+      <rect
+         rx="3.5528555"
+         ry="8.1005878"
+         y="49.366051"
+         x="14.309113"
+         height="31.665937"
+         width="78.8088"
+         id="rect3241"
+         style="fill:none;stroke:#0000bf;stroke-width:2.04834771;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g2939">
+      <text
+         id="text3245"
+         y="108.98475"
+         x="26.083479"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           id="tspan3247"
+           y="108.98475"
+           x="26.083479"
+           sodipodi:role="line">Resource</tspan></text>
+      <rect
+         rx="3.5528555"
+         ry="8.1005878"
+         y="89.937508"
+         x="14.487673"
+         height="31.665937"
+         width="78.8088"
+         id="rect3249"
+         style="fill:none;stroke:#0000bf;stroke-width:2.04834771;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g2947">
+      <text
+         id="text3253"
+         y="149.55618"
+         x="25.726349"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           id="tspan3255"
+           y="149.55618"
+           x="25.726349"
+           sodipodi:role="line">Resource</tspan></text>
+      <rect
+         rx="3.5528555"
+         ry="8.1005878"
+         y="130.50894"
+         x="14.130543"
+         height="31.665937"
+         width="78.8088"
+         id="rect3257"
+         style="fill:none;stroke:#0000bf;stroke-width:2.04834771;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g2955">
+      <text
+         id="text3261"
+         y="190.12758"
+         x="26.083479"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           id="tspan3263"
+           y="190.12758"
+           x="26.083479"
+           sodipodi:role="line">Resource</tspan></text>
+      <rect
+         rx="3.5528555"
+         ry="8.1005878"
+         y="171.08034"
+         x="14.487673"
+         height="31.665937"
+         width="78.8088"
+         id="rect3265"
+         style="fill:none;stroke:#0000bf;stroke-width:2.04834771;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g2963">
+      <text
+         id="text3269"
+         y="230.69901"
+         x="25.726349"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           id="tspan3271"
+           y="230.69901"
+           x="25.726349"
+           sodipodi:role="line">Resource</tspan></text>
+      <rect
+         rx="3.5528555"
+         ry="8.1005878"
+         y="211.65176"
+         x="14.130543"
+         height="31.665937"
+         width="78.8088"
+         id="rect3273"
+         style="fill:none;stroke:#0000bf;stroke-width:2.04834771;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g2918">
+      <text
+         id="text3277"
+         y="199.98473"
+         x="175.10204"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="199.98473"
+           x="175.10204"
+           id="tspan3279"
+           sodipodi:role="line">Resource provider</tspan></text>
+      <rect
+         rx="6.0695682"
+         ry="7.9462543"
+         y="181.23914"
+         x="162.82504"
+         height="31.062632"
+         width="134.63406"
+         id="rect3281"
+         style="fill:none;stroke:#0000bf;stroke-width:2.65165329;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 160.07064,48.90571 L 94.499216,33.887305"
+       id="path3325"
+       inkscape:connector-type="polyline" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="M 160.07064,64.851732 L 94.142086,65.067008"
+       id="path3327"
+       inkscape:connector-type="polyline" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 161.49921,120.9903 L 94.320646,111.48865"
+       id="path3329"
+       inkscape:connector-type="polyline" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 161.49921,136.77905 L 93.963516,142.76098"
+       id="path3331"
+       inkscape:connector-type="polyline" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 344.35636,130.69906 L 298.78493,130.69906"
+       id="path3333"
+       inkscape:connector-type="polyline" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 380.87878,113.84191 L 280.83393,81.484735"
+       id="path3335"
+       inkscape:connector-type="polyline" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 381.24321,147.5562 L 281.89809,179.91331"
+       id="path3337"
+       inkscape:connector-type="polyline" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 161.49922,192.93146 L 94.320646,189.17436"
+       id="path3339"
+       inkscape:connector-type="polyline" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 161.49922,208.70834 L 93.963516,220.45367"
+       id="path3341"
+       inkscape:connector-type="polyline" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#c8c8c8;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 126.26907,3.807755 L 126.26907,343.21901"
+       id="path3365" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#c8c8c8;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 325.26913,3.807755 L 325.26913,343.21901"
+       id="path3367" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="333.57141"
+       y="267.90213"
+       id="text3369"><tspan
+         sodipodi:role="line"
+         id="tspan3371"
+         x="333.57141"
+         y="267.90213"
+         style="font-weight:bold">Web server level</tspan><tspan
+         sodipodi:role="line"
+         x="333.57141"
+         y="282.90213"
+         id="tspan3373">provides application instances</tspan><tspan
+         sodipodi:role="line"
+         x="333.57141"
+         y="297.90213"
+         id="tspan3375">(sessions)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="135.72223"
+       y="267.90213"
+       id="text3377"><tspan
+         sodipodi:role="line"
+         id="tspan3379"
+         x="135.72223"
+         y="267.90213"
+         style="font-weight:bold">Application level</tspan><tspan
+         sodipodi:role="line"
+         x="135.72223"
+         y="282.90213"
+         id="tspan3383">provides application items</tspan><tspan
+         sodipodi:role="line"
+         x="135.72223"
+         y="297.90213"
+         id="tspan3387">(HTML code, images, etc...)</tspan></text>
+    <g
+       id="g3413"
+       transform="translate(0.7142857,-40.810547)">
+      <text
+         id="text3389"
+         y="308.71268"
+         x="6.0163231"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           id="tspan3395"
+           y="308.71268"
+           x="6.0163231"
+           sodipodi:role="line"
+           style="font-weight:bold">Resource level</tspan><tspan
+           id="tspan3403"
+           y="323.71268"
+           x="6.0163231"
+           sodipodi:role="line">provides any data</tspan><tspan
+           id="tspan3405"
+           y="338.71268"
+           x="6.0163231"
+           sodipodi:role="line">that will be</tspan><tspan
+           id="tspan3409"
+           y="353.71268"
+           x="6.0163231"
+           sodipodi:role="line">transmitted to the</tspan><tspan
+           id="tspan3411"
+           y="368.71268"
+           x="6.0163231"
+           sodipodi:role="line">client</tspan></text>
+    </g>
+  </g>
+</svg>
